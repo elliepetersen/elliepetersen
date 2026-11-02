@@ -1,5 +1,5 @@
 <p>Ellie Petersen</p>
-<p>Seattle, Washington | <a href="mailto:elp137@uw.edu">elp137@uw.ed</a>u | (203) 970-8477 </p>
+<p>Seattle, Washington | <a href="mailto:elp137@uw.edu">elp137@uw.edu</a> | (203) 970-8477 </p>
 <p><a href="https://www.linkedin.com/in/ellie-petersen/">linkedin.com/in/ellie-petersen</a> | <a href="https://github.com/elliepetersen">github.com/elliepetersen</a></p>
 <p></p>
 <p>CORE SKILLS</p>
@@ -25,7 +25,7 @@
 <hr>
 <p></p>
 <p>Cataloging and Metadata Services Student Specialist                                      2026 – Present</p>
-<p>University of Washington Libraries| Seattle, Washington</p>
+<p>University of Washington Libraries | Seattle, Washington</p>
 <ul>
 <li>Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of CDs using MARC21 in the OCLC Connexion environment.</li>
 <li>Enhance and remediate records in Alma and ResearchWorks.</li>
@@ -122,7 +122,7 @@
 <ul>
 <li>Utilized company data to find and present trends and patterns using Excel and Tableau, bringing out and representing data in comprehensive and understandable ways.</li>
 <li>Designed data models and graphics to maximize value, presentation, and comprehension.</li>
-<li>Earned the Excel Specialist, Tableau Specialist, and Intercultural Skills badges.</li></ul>## Hi there 👋
+<li>Earned the Excel Specialist, Tableau Specialist, and Intercultural Skills badges.</li></ul>
 
 <!--
 **elliepetersen/elliepetersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
