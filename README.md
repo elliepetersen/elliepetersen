@@ -1,5 +1,5 @@
 **Ellie Petersen**  
-Seattle, Washington \| [elp137@uw.ed](mailto:elp137@uw.edu)u \| (203) 970-8477   
+Seattle, Washington \| [elp137@uw.edu](mailto:elp137@uw.edu) \| (203) 970-8477   
 [linkedin.com/in/ellie-petersen](https://www.linkedin.com/in/ellie-petersen/) \| [github.com/elliepetersen](https://github.com/elliepetersen)
 
 **CORE SKILLS**  
@@ -25,7 +25,7 @@ Seattle, Washington \| [elp137@uw.ed](mailto:elp137@uw.edu)u \| (203) 970-8477
 ---
 
 **Cataloging and Metadata Services Student Specialist**  			            2026 – Present  
-University of Washington Libraries\| Seattle, Washington
+University of Washington Libraries \| Seattle, Washington
 
 * Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of CDs using MARC21 in the OCLC Connexion environment.  
 * Enhance and remediate records in Alma and ResearchWorks.  
